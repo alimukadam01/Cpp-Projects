@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ASIGNM_1.C": "cpp"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true
+}
